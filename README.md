@@ -38,6 +38,9 @@ npm run prod
 
 ```bash
 
+# 修改HOST
+# 将.env中的 HOST 改为0.0.0.0
+
 # 使用pm2启动
 pm2 start process.json
 
