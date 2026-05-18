@@ -1,0 +1,202 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"username": "admin",
+			"password": "$2b$10$Gr9/PWOCx9LYZLSMkO1wbeBwivHcj0MZhnu2vX8EzJKqXet9xCJgK",
+			"mobile": "18888888888",
+			"email": "luciferoho@foxmail.com",
+			"nickname": "万炸炸",
+			"role": "admin",
+			"orgId": 1,
+			"groupName": "开发部"
+		},
+		{
+			"id": 2,
+			"username": "lucifer",
+			"password": "$2b$10$xgmj4Z9CsiEB3Tda2wa1KOMwiT6wWgji.kspLseMdkFBKbPmoeWiG",
+			"mobile": "18866666666",
+			"email": "luciferoho@foxmail.com",
+			"nickname": "林呼呼",
+			"role": "user",
+			"orgId": 2,
+			"groupName": "开发部"
+		}
+	],
+	"orgs": [
+		{
+			"id": 1,
+			"name": "汤圆科技"
+		},
+		{
+			"id": 2,
+			"name": "炸炸科技"
+		},
+		{
+			"id": 3,
+			"name": "呼呼科技"
+		}
+	],
+	"softwareDoc": {
+		"fileName": "electron-boilerplate.pdf"
+	},
+	"softwareInstaller": {
+		"fileName": "electron-boilerplate-pure-1.0.1-setup.exe"
+	},
+	"notice": [
+		{
+			"id": 22,
+			"title": "系统 1.0.1 版本正式上线啦！",
+			"content": "更新内容：\n1.优化页面设计\n2.修复软件bug",
+			"status": 1,
+			"createTime": 1776305367465
+		},
+		{
+			"id": 21,
+			"title": "系统 1.0.0 版本正式上线啦！",
+			"content": "更新内容：\n1.优化页面设计\n2.修复软件bug",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 20,
+			"title": "测试公告20",
+			"content": "测试公告20测试公告20",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 19,
+			"title": "测试公告19",
+			"content": "测试公告19测试公告19",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 18,
+			"title": "测试公告18",
+			"content": "测试公告18测试公告18",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 17,
+			"title": "测试公告17",
+			"content": "测试公告17测试公告17",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 16,
+			"title": "测试公告16",
+			"content": "测试公告16测试公告16",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 15,
+			"title": "测试公告15",
+			"content": "测试公告15测试公告15",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 14,
+			"title": "测试公告14",
+			"content": "测试公告14测试公告14",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 13,
+			"title": "测试公告13",
+			"content": "测试公告13测试公告13",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 12,
+			"title": "测试公告12",
+			"content": "测试公告12测试公告12",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 11,
+			"title": "测试公告11",
+			"content": "测试公告11测试公告11",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 10,
+			"title": "测试公告10",
+			"content": "测试公告10测试公告10",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 9,
+			"title": "测试公告9",
+			"content": "测试公告9测试公告9",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 8,
+			"title": "测试公告8",
+			"content": "测试公告8测试公告8",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 7,
+			"title": "测试公告7",
+			"content": "测试公告7测试公告7",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 6,
+			"title": "测试公告6",
+			"content": "测试公告6测试公告6",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 5,
+			"title": "测试公告5",
+			"content": "测试公告5测试公告5",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 4,
+			"title": "测试公告4",
+			"content": "测试公告4测试公告4",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 3,
+			"title": "测试公告3",
+			"content": "测试公告3测试公告3",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 2,
+			"title": "测试公告2",
+			"content": "测试公告2测试公告2",
+			"status": 0,
+			"createTime": 1775540644523
+		},
+		{
+			"id": 1,
+			"title": "测试公告1",
+			"content": "测试公告1测试公告1",
+			"status": 0,
+			"createTime": 1775540644523
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "ebp-json-server",
+      "script": "src/server.js",
+      "cwd": ".",
+      "watch": false,
+      "env": {
+        "NODE_ENV": "production",
+        "DOTENV_CONFIG_PATH": ".env.production"
+      }
+    }
+  ]
+}
