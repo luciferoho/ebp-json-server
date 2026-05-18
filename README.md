@@ -2,22 +2,17 @@
 
 [electron-boilerplate-pure](https://github.com/Lucifer-s-Templates/electron-boilerplate-pure) 的 mock-api 服务
 
-## 测试账号
-
-- admin: lumos123
-- lucifer: 123456
-
 ## 项目结构
 
 ```plaintext
 ebp-json-server/
 ├── src/
-│   ├── server.js              # 服务端入口文件
-│   ├── db.json                # 数据配置文件
-│   └── hash-password.js       # 密码哈希工具
+│   ├── server.js            # 服务端入口文件
+│   ├── db.json              # 数据配置文件
+│   └── hash-password.js     # 密码哈希工具
 ├── .env                     # 环境变量配置
-├── .env.development    # 开发环境变量配置
-├── .env.production    # 生产环境变量配置
+├── .env.development         # 开发环境变量配置
+├── .env.production          # 生产环境变量配置
 ├── process.json             # pm2启动配置
 └── package.json             # 项目依赖配置
 ```
@@ -33,6 +28,10 @@ npm run dev
 
 # 生产环境
 npm run prod
+
+# 测试账号
+# admin / lumos123
+# lucifer / 123456
 ```
 
 ## 服务器上运行
