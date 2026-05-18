@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "ebp-json-server",
+      "name": "ebp-mock-api",
       "script": "src/server.js",
       "cwd": ".",
       "watch": false,

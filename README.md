@@ -1,11 +1,11 @@
-# ebp-json-server
+# ebp-mock-api
 
 [electron-boilerplate-pure](https://github.com/Lucifer-s-Templates/electron-boilerplate-pure) 的 mock-api 服务
 
 ## 项目结构
 
 ```plaintext
-ebp-json-server/
+ebp-mock-api/
 ├── src/
 │   ├── server.js            # 服务端入口文件
 │   ├── db.json              # 数据配置文件
@@ -45,16 +45,16 @@ pm2 start process.json
 pm2 list
 
 # 重启服务
-pm2 restart ebp-json-server
+pm2 restart ebp-mock-api
 
 # 停止服务
-pm2 stop ebp-json-server
+pm2 stop ebp-mock-api
 
 # 删除服务
-pm2 delete ebp-json-server
+pm2 delete ebp-mock-api
 
 # 查看日志
-pm2 logs ebp-json-server
+pm2 logs ebp-mock-api
 
 # 保存并设置开机自启
 pm2 save

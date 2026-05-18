@@ -1,18 +1,17 @@
 {
-	"name": "ebp-json-server",
+	"name": "ebp-mock-api",
 	"version": "1.0.0",
 	"description": "electron-boilerplate-pure mock-api",
 	"main": "src/server.js",
 	"author": "Lucifer",
 	"license": "MIT",
-	"homepage": "https://github.com/luciferoho/ebp-json-server",
+	"homepage": "https://github.com/luciferoho/ebp-mock-api",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"dev": "node -r dotenv/config src/server.js dotenv_config_path=.env.development",
 		"prod": "node -r dotenv/config src/server.js dotenv_config_path=.env.production"
 	},
 	"keywords": [
-		"json-server",
 		"mock"
 	],
 	"dependencies": {
